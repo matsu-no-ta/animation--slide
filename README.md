@@ -3,7 +3,7 @@
 
 # 最小モジュール --- ラベル
 
-表示：https://matsu-web.blog/portfolio.matsu-web.blog/smallest-module/label/index.html
+表示：https://matsu-web.blog/portfolio.matsu-web.blog/animation/slide/index.html
 
 ## 連絡先
 [@matsunota_t](https://twitter.com/matsunota_t)
